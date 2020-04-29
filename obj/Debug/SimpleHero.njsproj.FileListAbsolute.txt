@@ -1,0 +1,2 @@
+C:\Users\VandS\Source\Repos\SimpleHero_Git\obj\Debug\SimpleHero.njsprojResolveAssemblyReference.cache
+C:\Users\VandS\Source\Repos\SimpleHero_Git\bin\Microsoft.NodejsTools.WebRole.dll

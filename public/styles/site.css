@@ -1,0 +1,74 @@
+﻿/* Fonts */
+.font-tradewinds {
+    font-family: 'Trade Winds', cursive;
+}
+
+body {
+    background: black;
+}
+
+
+.modal{
+     text-align: center;
+}
+.modal::before {
+     content: "";	  
+     display: inline-block;
+     height: 100%;	 
+     margin-right: -4px;
+     vertical-align: middle;
+}
+.modal-dialog {	
+     display: inline-block;	
+     text-align: left;	
+     vertical-align: middle;
+}	
+
+
+
+
+.btn-gui { 
+  color: #FFFFFF; 
+  background-color: #E13921; 
+  border-color: #7D1100; 
+} 
+ 
+.btn-gui:hover, 
+.btn-gui:focus, 
+.btn-gui:active, 
+.btn-gui.active, 
+.open .dropdown-toggle.btn-gui { 
+  color: #FFFFFF; 
+  background-color: #942413; 
+  border-color: #7D1100; 
+} 
+ 
+.btn-gui:active, 
+.btn-gui.active, 
+.open .dropdown-toggle.btn-gui { 
+  background-image: none; 
+} 
+ 
+.btn-gui.disabled, 
+.btn-gui[disabled], 
+fieldset[disabled] .btn-gui, 
+.btn-gui.disabled:hover, 
+.btn-gui[disabled]:hover, 
+fieldset[disabled] .btn-gui:hover, 
+.btn-gui.disabled:focus, 
+.btn-gui[disabled]:focus, 
+fieldset[disabled] .btn-gui:focus, 
+.btn-gui.disabled:active, 
+.btn-gui[disabled]:active, 
+fieldset[disabled] .btn-gui:active, 
+.btn-gui.disabled.active, 
+.btn-gui[disabled].active, 
+fieldset[disabled] .btn-gui.active { 
+  background-color: #E13921; 
+  border-color: #7D1100; 
+} 
+ 
+.btn-gui .badge { 
+  color: #E13921; 
+  background-color: #FFFFFF; 
+}
